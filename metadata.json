@@ -1,0 +1,5 @@
+{
+  "name": "ESL Worksheet Builder",
+  "description": "An AI-powered tool for English as a Second Language (ESL) teachers to quickly generate custom PDF worksheets on any topic. Select exercise types like vocabulary, fill-in-the-blanks, and multiple-choice questions.",
+  "requestFramePermissions": []
+}
